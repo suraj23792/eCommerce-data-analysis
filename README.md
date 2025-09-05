@@ -2,7 +2,8 @@
 
 #Description: This project analyzes the 'Sample Superstore' dataset to identify key trends in sales and profit. The goal is to uncover insights about the most and least profitable product categories and sub-categories, and to understand monthly sales patterns.
 
-#Problem Statement: 1--> You need to calculate the monthly sales of the store and identify which month had the highest sales and which month had the lowest sales.
+#Problem Statement:
+                   1--> You need to calculate the monthly sales of the store and identify which month had the highest sales and which month had the lowest sales.
 
                    2--> You need to analyze sales based on product categories and determine which category has the lowest sales which category has the highest sales.
                    
